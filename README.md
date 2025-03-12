@@ -2,8 +2,11 @@
 Setup instructions needed:
 
 1. In the python code please install the folowing packages:
+   
 requests
+
 retry
+
 pandas
 
 2. run Transformation_layer.py to execute the main code for section 1
