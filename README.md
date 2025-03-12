@@ -9,7 +9,7 @@ retry
 
 pandas
 
-2. run Transformation_layer.py to execute the main code for section 1
+2. Run Transformation_layer.py to execute the main code for section 1
 
 Assumptions made:
 1. For the fisrt section I wrote the python code with no use open source scheduler and just demonstrate the flow of the process.
